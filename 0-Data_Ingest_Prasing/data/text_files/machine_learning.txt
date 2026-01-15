@@ -1,0 +1,13 @@
+Machine Learning Basics
+
+Machine Learning is a subset of artificial intelligence that enables systems to learn from data
+without being explicitly programmed.
+
+Core Concepts:
+- Supervised learning
+- Unsupervised learning
+- Reinforcement learning
+- Model training and evaluation
+
+Machine learning is used in recommendation systems, fraud detection, image recognition,
+natural language processing, and predictive analytics.

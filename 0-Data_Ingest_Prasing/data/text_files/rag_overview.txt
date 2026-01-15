@@ -1,0 +1,13 @@
+Retrieval-Augmented Generation (RAG)
+
+RAG is an AI architecture that combines information retrieval with text generation.
+It retrieves relevant documents from a knowledge base and uses them to generate accurate responses.
+
+RAG Workflow:
+- Load and preprocess documents
+- Convert text into embeddings
+- Store embeddings in a vector database
+- Retrieve relevant chunks at query time
+- Generate grounded responses using an LLM
+
+RAG reduces hallucinations and improves factual accuracy in AI systems.
