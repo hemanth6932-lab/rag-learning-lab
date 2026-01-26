@@ -1,0 +1,75 @@
+{
+  "company": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "Software Engineer",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React"
+      ],
+      "projects": [
+        {
+          "name": "RAG System",
+          "status": "In Progress"
+        },
+        {
+          "name": "Data Pipeline",
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "role": "Data Scientist",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL"
+      ],
+      "projects": [
+        {
+          "name": "ML Model",
+          "status": "In Progress"
+        },
+        {
+          "name": "Analytics Dashboard",
+          "status": "Planning"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rahul Kumar",
+      "role": "DevOps Engineer",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "projects": [
+        {
+          "name": "CI/CD Pipeline",
+          "status": "Completed"
+        },
+        {
+          "name": "Cloud Migration",
+          "status": "In Progress"
+        }
+      ]
+    }
+  ],
+  "departments": {
+    "Engineering": {
+      "head": "Alice Brown",
+      "location": "Bangalore"
+    },
+    "Data": {
+      "head": "Michael Lee",
+      "location": "Hyderabad"
+    }
+  }
+}
